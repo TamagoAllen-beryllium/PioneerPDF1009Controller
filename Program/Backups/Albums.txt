@@ -1,0 +1,69 @@
++===+==================================================+====+==============================+
+|No.|Album Name                                        |Year|Genre                         |
++===+==================================================+====+==============================+
+|1  |Scott Pilgrim Vs. The World: The Game OST         |2010|Chiptune                      |
+|2  |Neon Bible                                        |2007|Indie Rock                    |
+|3  |Whatever People Say I Am,That's What I'm Not      |2006|Indie Rock                    |
+|4  |Let Go                                            |2002|Pop                           |
+|5  |Blink 182 Greatest Hits                           |2005|Punk Rock                     |
+|6  |The Best Of Blur                                  |2000|Brit Pop                      |
+|7  |Chronologic                                       |2019|Electronic Jazz               |
+|8  |Robot Face                                        |2015|Electronic Jazz               |
+|9  |Honky Chateau                                     |1972|Pop Rock                      |
+|10 |Rumours                                           |1977|Pop Rock                      |
+|11 |Cracker Island                                    |2023|Electronic Pop                |
+|12 |Demon Days                                        |2005|Alt Rock Pop                  |
+|13 |Gorillaz                                          |2001|Alt Rock Pop                  |
+|14 |Plastic Beach                                     |2010|Electronic Pop                |
+|15 |Song Machine: Season One                          |2020|Alt Rock                      |
+|16 |In The Court Of The Crimson Kings                 |1969|Psychedelic Art Prog Rock     |
+|17 |Kinks The Ultimate Collection Disc 1              |1968|Rock Folk                     |
+|18 |Kinks The Ultimate Collection Disc 2              |1968|Rock Folk                     |
+|19 |Myths Of The Near Future                          |2007|Alt Pop Indie Rock            |
+|20 |Nature Tapes                                      |2014|Alt Indie                     |
+|21 |Spirit Phone Disc 1                               |2016|Synth Electronic Pop New-Wave |
+|22 |Spirit Phone Disc 2                               |2016|Synth Electronic Pop New-Wave |
+|23 |View-Monster Disc 1                               |2008|Indie Electronic Pop          |
+|24 |View-Monster Disc 2                               |2008|Indie Electronic Pop          |
+|25 |Pronounced Leh-nerd-skin-nerd                     |1973|Southern Rock                 |
+|26 |Gunfighter Ballads And Trail Songs                |1959|Country Western Pop           |
+|27 |Mad World                                         |2003|Soft Rock                     |
+|28 |Hawaii: Part 2                                    |2012|Alt Pop Indie                 |
+|29 |Nat King Cole Collection                          |1955|Jazz Pop                      |
+|30 |A Fever You Can't Sweat Out                       |2005|Emo Alt Rock Pop Punk         |
+|31 |The Death Of A Bachelor                           |2016|Pop Alt Rock Jazz             |
+|32 |Dark Side Of The Moon                             |1973|Psychedelic Art Prog Rock     |
+|33 |Surfer Rosa                                       |1988|Alt Rock Punk Grunge          |
+|34 |The Best Of R.E.M. In Time                        |1985|Rock Folk                     |
+|35 |Hail To The Thief                                 |2003|Alt Rock Electronic           |
+|36 |Scissor Sisters                                   |2004|Nu Disco Glam Rock Electronic |
+|37 |Ta-Dah                                            |2006|Glam Pop Rock                 |
+|38 |The Specials                                      |1979|Ska Reggae 2-Tone Punk Rock   |
+|39 |The Very Best Of Supertramp                       |1988|Prog Rock Pop                 |
+|40 |Stop Making Sense                                 |1984|New-Wave Post-Punk            |
+|41 |Good & Evil                                       |2011|Fabloo Alt Rock Indie Pop Prog|
+|42 |Marvin's Marvellous Mechanical Museum             |2005|Fabloo Alt Rock Indie Pop Prog|
+|43 |Tenacious D                                       |2001|Comedy Rock Hard Metal        |
+|44 |Surrender                                         |1999|Big-Beat Electronica          |
+|45 |The Creedance Clearwater Revival The Concert      |1968|Swamp Rock Blues              |
+|46 |The Very Best Of The Doors                        |2007|Psychedelic Rock Blues        |
+|47 |Join With Us                                      |2008|Soft Rock Power Pop           |
+|48 |Costello Music                                    |2006|Indie Garage Rock             |
+|49 |Narcissus Road                                    |2007|Indie Rock                    |
+|50 |Cosmicandy                                        |2006|Alt Indie Pop                 |
+|51 |Beggars Banquet                                   |1968|Roots Rock Country Blues      |
+|52 |April Fools                                       |2016|Alt Pop Indie                 |
+|53 |Burn Pygmalion!                                   |2019|Alt Indie                     |
+|54 |Elephant                                          |2003|Alt Blues Rock Garage         |
+|55 |Tired Of Hanging Around                           |2005|Indie Pop Rock Soul           |
+|56 |Who Killed... The Zutons                          |2004|Folk Garage Rock Indie Pop    |
+|57 |A User's Guide To They Might Be Giants            |2005|Alt Rock                      |
+|58 |Little Nightmares OST                             |2017|VGOST Electronic Classical Amb|
+|59 |All Maps Welcome                                  |2005|Folk                          |
+|60 |Footloose OST                                     |1984|MOST Rock Stage               |
+|61 |Needlejustice                                     |2020|Rock                          |
+|62 |Scott Pilgrim Vs. The World: The Movie OST        |2010|MOST Indie Rock Stage         |
+|63 |Suited And Booted                                 |2005|Ska Reggae 2-Tone Punk Rock   |
+|64 |Weezer                                            |1994|Alt Rock Pop Punk             |
+|65 |The Best Of Don McLean                            |2001|Folk                          |
++===+==================================================+====+==============================+
